@@ -23,6 +23,8 @@
 ### Sección contacto:
 ![Contacto](img/readme8.PNG)
 
+## Funcionamiento
+![BlogDeCafé](https://myblogdecafe-shu.netlify.app/)
 
 ## Tecnologías
 - HTML
