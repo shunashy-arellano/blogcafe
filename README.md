@@ -24,10 +24,10 @@
 ![Contacto](img/readme8.PNG)
 
 ## Funcionamiento
-![BlogDeCafé](https://myblogdecafe-shu.netlify.app/)
+[BlogDeCafé](https://myblogdecafe-shu.netlify.app/)
 
 ## Tecnologías
 - HTML
 - CSS
 
-Además, se incluyeron **Google Fonts** para personalizar la fuente y **Flaticon** para incorporar iconos.
+Además, se incluyeron **Google Fonts** para personalizar la fuente y **Pexels** para incorporar imágenes.
